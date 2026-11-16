@@ -4,9 +4,9 @@ A bilingual study website based on all five supplied Sample Quiz PDFs.
 
 根据全部五份 Sample Quiz 整理的中英文复习网站。
 
-**Website / 在线访问:** https://boran002.github.io/EE6102/
+**Website / 在线访问:** https://rivenzhang01.github.io/EE6102/
 
-**Repository / 源码:** https://github.com/BORAN002/EE6102
+**Repository / 源码:** https://github.com/RivenZhang01/EE6102
 
 - 115 questions: 27 / 20 / 15 / 35 / 18 across Parts 1–5.
 - 44 expanded concept lessons with explanations, examples, common distinctions and linked questions.
